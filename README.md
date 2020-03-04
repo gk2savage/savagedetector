@@ -1,7 +1,9 @@
 #Savage Detector
+
 **Version 0.0.1
 Made by @gk2savage
 **
+
 ### Features
 
 Basic Information Gathering and Vulnerability Scanning Tool. Will Improve with time.
@@ -12,6 +14,7 @@ Basic Information Gathering and Vulnerability Scanning Tool. Will Improve with t
 - Check Directories and Subdomains
 - Nikto Tool
 - SQLi Vulnerabilities
+
 `Version 0.0.1 [04/03/2020]`
 
 ###Installation
