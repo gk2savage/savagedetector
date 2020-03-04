@@ -1,4 +1,4 @@
-# Savage Detector
+# 🔥Savage Detector🔥
 
 **Version 0.0.1**
 
