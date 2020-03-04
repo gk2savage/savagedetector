@@ -25,6 +25,7 @@ If you encounter some problems, Fix missing Tools with `f` option
 
 ### Usage
 
-git clone `https://github.com/gk2savage/`
+git clone `https://github.com/gk2savage/savagedetector`
+
 Enter Directory and run shell script
 Select the type of scan you want to perform and leave the rest to it.
