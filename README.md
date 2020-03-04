@@ -1,4 +1,4 @@
-#Savage Detector
+# Savage Detector
 
 **Version 0.0.1
 Made by @gk2savage
@@ -17,12 +17,14 @@ Basic Information Gathering and Vulnerability Scanning Tool. Will Improve with t
 
 `Version 0.0.1 [04/03/2020]`
 
-###Installation
+### Installation
+
 Just Run the savagedetector.sh and you are fine.
 Enter the IP Address and start scanning
 If you encounter some problems, Fix missing Tools with `f` option
 
-###Usage
+### Usage
+
 git clone `https://github.com/gk2savage/`
 Enter Directory and run shell script
 Select the type of scan you want to perform and leave the rest to it.
